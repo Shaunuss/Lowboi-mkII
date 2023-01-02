@@ -4,7 +4,7 @@ Here is my Lowboi mkII worm extruder design. This extruder is designed to use th
 
 It uses a 19.5:1 reduction worm drive to drive large gears and hobs. This extruder can push a lot of filament and produces a nice smooth extrusion.
 
-The gear/hob assembly is supported on custom length shafts with F3-8M thrust washers either side, held in place with a gentle preload by the Thrust Mount Caps.
+The gear/hob assembly is supported on custom length shafts with F3-8M thrust washers either side, held in place with a gentle preload by the Thrust Mount Caps. Using a washer or a spring washer is recommended, but not strictly necessary.
 
 Parts you will need:
 
