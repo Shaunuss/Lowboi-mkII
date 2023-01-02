@@ -16,7 +16,7 @@ Cannon extruder gear kit including stepper motor - 1
 
 F3-8M thrust washers - 4 off
 
-M3 x 4mm x 4mm Brass melt inserts - 8 off
+M3 x 5mm x 4mm Brass melt inserts - 8 off
 
 M3 x 8mm Capscrews - 10 off
 
